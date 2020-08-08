@@ -1,0 +1,20 @@
+div.box{
+    float: left;
+    height: 40vh;
+    margin: 10px;
+    width: 25%;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+div.dash {
+  
+    border: pink 2px solid;
+    padding: 1em;
+}
+div >h3 {
+    text-align: center;
+}
